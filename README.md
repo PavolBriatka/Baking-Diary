@@ -1,4 +1,7 @@
-# Baking-Diary
+<h1>Baking Diary</h1>
+<p><b>Keywords:</b> asynchronous task, loader, widget, exoplayer, fragments, responsive design, recyclerview, espresso UI test, shared preferences</p>
+<p>This application has been developed as a part of the Android Nanodegree Course at udacity.com. The application uses a Loader to retreive online data about various recipes. The phone design works with three activities - each showing one fragment (list of recipes, list of ingredients and instructions). The list of instructions shows one element at a time - the user can navigate through the steps using arrows on the screen. Some steps contain video instructions played on the ExoPlayer.</p><p>The tablet layout uses only one activity showing all three fragments at the same time which gives the user an opportunity to handle all actions from one screen.</p>
+<p>This application includes also a widget that shows the list of ingredients for a chosen recipe. Another part of the code are two Espresso UI tests.</p>
 <h1>Screenshots</h1>
 <table style="font-size:14px;">
 <tbody>
